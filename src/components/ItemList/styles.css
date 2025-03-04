@@ -1,0 +1,19 @@
+.item-list {
+    margin: 24px 0;
+    padding: 10px;
+    background: rgba(0, 0, 0, 0.5);
+    border-radius: 10px;
+}
+
+.item-list strong {
+    color: #539BF5;
+    font-size: 24px;
+    margin: 24px 0;
+    display: block;
+}
+
+.item-list p {
+    color: #999999;
+    font-size: 14px;
+    margin-top: 12px;
+}
